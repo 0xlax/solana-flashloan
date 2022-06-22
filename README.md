@@ -1,4 +1,4 @@
-# Solana Flashbots 
+# Solana Flashloan Program
 
 Motive: An example-starter to be integrated into [Marka Protocol](https://github.com/Marka-protocol/marka.git) 
 
