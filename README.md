@@ -10,6 +10,6 @@ Motive: An example-starter to be integrated into [Marka Protocol](https://github
 ## Build and Test BPF compiled
 
 ```
-$cargo build-bpf
-$cargo test-bpf
+$ cargo build-bpf
+$ cargo test-bpf
 ```
